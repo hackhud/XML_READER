@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Publications>
+	<Publication>
+		<Name>Коваль Юрій Віталійович</Name>
+		<Faculty>ФКНК</Faculty>
+		<Department>ТК</Department>
+		<Data>Вступ до програмування мовою С++. Організація обчислень.</Data>
+	</Publication>
+	<Publication>
+		<Name>Довгай Богда Валерійович</Name>
+		<Faculty>ФКНК</Faculty>
+		<Department>Кафедра дослідження операцій</Department>
+		<Data>Алгебра та геометрія</Data>
+	</Publication>
+	<Publication>
+		<Name>Роман Ярославович Якимів</Name>
+		<Faculty>ФКНК</Faculty>
+		<Department>Кафедра дослідження операцій</Department>
+		<Data>Алгебра та геометрія</Data>
+	</Publication>
+	<Publication>
+		<Name>Сидорова Ольга Петрівна</Name>
+		<Faculty>ФІТ</Faculty>
+		<Department>ШІ</Department>
+		<Data>Нові технології штучного інтелекту</Data>
+	</Publication>
+	<Publication>
+		<Name>Григоренко Олександр Олегович</Name>
+		<Faculty>Хімічний факультет</Faculty>
+		<Department>Кафедра органічної хімії</Department>
+		<Data>Органічна хімія ароматичних та гетероциклічних сполук</Data>
+	</Publication>
+</Publications>
